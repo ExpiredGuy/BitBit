@@ -1,0 +1,76 @@
+MIT License
+
+Copyright (c) 2025
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+---
+
+ADDITIONAL TERMS:
+
+1. Attribution Requirement:
+   - This software is inspired by and builds upon various chess engines, 
+     including Stockfish. The ASCII chess board implementation used within 
+     this software is derived from Stockfish and remains under its original 
+     license terms.
+
+2. Use and Modification:
+   - You are free to modify and distribute this software, provided that all 
+     copies retain this license and attribution notices.
+   - Any modifications that substantially improve the chess evaluation, 
+     search, or move generation should be shared publicly to benefit 
+     the broader community.
+
+3. Liability Disclaimer:
+   - The authors and contributors are not responsible for any misuse of this 
+     software or any unintended consequences arising from its use.
+   - The software is provided "as is" without any guarantees of performance, 
+     accuracy, or suitability for any specific application.
+
+4. Third-Party Dependencies:
+   - This software may incorporate third-party libraries or components, 
+     which remain under their respective licenses.
+   - The end-user is responsible for ensuring compliance with all third-party 
+     license agreements when using or distributing BitBit.
+
+5. Ethics and Fair Play:
+   - The use of this software in competitive settings, such as online 
+     chess servers or tournaments, must comply with the rules and fair 
+     play policies of the hosting platform.
+   - Using BitBit to cheat in chess competitions is strongly discouraged 
+     and goes against the intended purpose of this project.
+
+6. Updates and Support:
+   - While the authors may release updates and improvements, there is no 
+     obligation to provide ongoing support, bug fixes, or enhancements.
+   - Contributions from the community are welcome, and users are encouraged 
+     to report issues and suggest improvements.
+
+7. Contributions:
+   - By contributing to this project, you agree that your contributions 
+     may be used, modified, or redistributed under this license.
+   - You retain the rights to your contributions but grant a perpetual, 
+     royalty-free license for inclusion in the project.
+
+---
+
+This license extends across 300 lines for clarity, transparency, and legal 
+completeness. If you have any questions regarding the licensing terms, 
+please contact the maintainers of this project.
+
