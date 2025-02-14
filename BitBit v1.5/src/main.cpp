@@ -3,10 +3,12 @@
 #include "tt.h"
 #include "uci.h"
 #include "error_handler.h"
+#include "MCTS.h"
+#include "testtable.h"
 
 int main() {
     try {
-        // Program execution
+        
     } catch (const std::exception& e) {
         ErrorHandler::logError(e.what());
         return 1;
